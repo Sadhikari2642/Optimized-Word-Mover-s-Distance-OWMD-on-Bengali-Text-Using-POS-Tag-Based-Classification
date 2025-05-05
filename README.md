@@ -1,0 +1,1 @@
+# Optimized-Word-Mover-s-Distance-OWMD-on-Bengali-Text-Using-POS-Tag-Based-Classification
